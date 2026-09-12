@@ -1,0 +1,68 @@
+{
+  "model_name": "neuralmind/bert-base-portuguese-cased",
+  "training_time_seconds": 157.25179290771484,
+  "num_train_examples": 240,
+  "num_test_examples": 60,
+  "report": {
+    "COR": {
+      "precision": 0.95,
+      "recall": 0.8636363636363636,
+      "f1-score": 0.9047619047619048,
+      "support": 44
+    },
+    "MARCA": {
+      "precision": 0.921875,
+      "recall": 0.9833333333333333,
+      "f1-score": 0.9516129032258064,
+      "support": 60
+    },
+    "MEMORIA": {
+      "precision": 0.9705882352941176,
+      "recall": 1.0,
+      "f1-score": 0.9850746268656716,
+      "support": 33
+    },
+    "MODELO": {
+      "precision": 0.8382352941176471,
+      "recall": 0.8507462686567164,
+      "f1-score": 0.8444444444444444,
+      "support": 67
+    },
+    "RAM": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14
+    },
+    "TELA": {
+      "precision": 0.85,
+      "recall": 0.8095238095238095,
+      "f1-score": 0.8292682926829269,
+      "support": 21
+    },
+    "TIPO": {
+      "precision": 0.9423076923076923,
+      "recall": 0.9423076923076923,
+      "f1-score": 0.9423076923076923,
+      "support": 52
+    },
+    "micro avg": {
+      "precision": 0.9143835616438356,
+      "recall": 0.9175257731958762,
+      "f1-score": 0.915951972555746,
+      "support": 291
+    },
+    "macro avg": {
+      "precision": 0.924715174531351,
+      "recall": 0.9213639239225593,
+      "f1-score": 0.9224956948983495,
+      "support": 291
+    },
+    "weighted avg": {
+      "precision": 0.9146174449161106,
+      "recall": 0.9175257731958762,
+      "f1-score": 0.9154851292569024,
+      "support": 291
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "overall_f1_micro": 0.9075043630017452,
+  "report": {
+    "COR": {
+      "precision": 0.8809523809523809,
+      "recall": 0.8409090909090909,
+      "f1-score": 0.8604651162790699,
+      "support": 44
+    },
+    "MARCA": {
+      "precision": 0.9354838709677419,
+      "recall": 0.9666666666666667,
+      "f1-score": 0.9508196721311476,
+      "support": 60
+    },
+    "MEMORIA": {
+      "precision": 0.9705882352941176,
+      "recall": 1.0,
+      "f1-score": 0.9850746268656716,
+      "support": 33
+    },
+    "MODELO": {
+      "precision": 0.9,
+      "recall": 0.8059701492537313,
+      "f1-score": 0.8503937007874016,
+      "support": 67
+    },
+    "RAM": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14
+    },
+    "TELA": {
+      "precision": 0.8571428571428571,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.8571428571428571,
+      "support": 21
+    },
+    "TIPO": {
+      "precision": 0.9387755102040817,
+      "recall": 0.8846153846153846,
+      "f1-score": 0.9108910891089108,
+      "support": 52
+    },
+    "micro avg": {
+      "precision": 0.9219858156028369,
+      "recall": 0.8934707903780069,
+      "f1-score": 0.9075043630017452,
+      "support": 291
+    },
+    "macro avg": {
+      "precision": 0.9261346935087398,
+      "recall": 0.9079005926553901,
+      "f1-score": 0.9163981517592941,
+      "support": 291
+    },
+    "weighted avg": {
+      "precision": 0.9210882313240117,
+      "recall": 0.8934707903780069,
+      "f1-score": 0.9063911433578502,
+      "support": 291
+    }
+  },
+  "n_train": 240,
+  "n_test": 60
+}

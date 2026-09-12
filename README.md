@@ -20,7 +20,17 @@
 Códigos de SKU/referência (ex: `P9076`, `MM2Y3ZE/A`) foram deixados sem tag.
 
 ## Metodologia de anotação
-Amostra aleatória de 300 títulos únicos (seed=42), anotada com apoio de LLM em 5 lotes de 60 títulos. Cada offset foi validado programaticamente contra o texto original (sem overlaps, sem offsets inválidos). Script de amostragem em `scripts/2.sample_titles.py`, pra reproduzir a mesma amostra. Anotações finais em `data/annotations/cellphone.ibyte.jsonl`.
+Amostra aleatória de 300 títulos únicos (seed=42), anotada com apoio de LLM em 5 lotes de 60 títulos. Cada offset foi validado programaticamente contra o texto original (sem overlaps, sem offsets inválidos). Script de amostragem em `scripts/2.sample_titles.py`, pra reproduzir a mesma amostra. Anotações finais em `data/annotations/cellphone.ibyte.jsonl`. Split de treino/teste em `data/annotations/train.jsonl` (240) e `test.jsonl` (60), seed=42.
+
+## Notebooks e resultados
+| Notebook | Técnica | F1 geral (seqeval) |
+|---|---|---|
+| `notebooks/01_spacy_ner.ipynb` | spaCy, pipeline `ner` treinado do zero | 0.875 |
+| `notebooks/02_crf_ner.ipynb` | CRF com features artesanais | 0.908 |
+| `notebooks/03_bertimbau_ner.ipynb` | BERTimbau fine-tuned | 0.916 |
+| `notebooks/04_comparacao_resultados.ipynb` | Comparação das três técnicas | - |
+
+Discussão detalhada (por tag, pontos fortes/fracos de cada técnica) em `notebooks/04_comparacao_resultados.ipynb`. Ambiente reproduzível em `.venv` (`requirements.txt`).
 
 ## Prerequisites:
 * Docker

@@ -1,0 +1,354 @@
+[
+  {
+    "text": "Smartphone Nokia C20 32GB 4G com 90 dias de internet grátis* - NK081",
+    "gold": [
+      [
+        "Smartphone",
+        "TIPO"
+      ],
+      [
+        "Nokia",
+        "MARCA"
+      ],
+      [
+        "C20",
+        "MODELO"
+      ],
+      [
+        "32GB",
+        "MEMORIA"
+      ]
+    ],
+    "pred": [
+      [
+        "Smartphone",
+        "TIPO"
+      ],
+      [
+        "Nokia",
+        "MARCA"
+      ],
+      [
+        "C20",
+        "MODELO"
+      ],
+      [
+        "32GB",
+        "MEMORIA"
+      ]
+    ]
+  },
+  {
+    "text": "KIT MOTORISTA 01 - WI392",
+    "gold": [
+      [
+        "KIT",
+        "TIPO"
+      ],
+      [
+        "MOTORISTA 01",
+        "MODELO"
+      ]
+    ],
+    "pred": [
+      [
+        "KIT MOTORISTA",
+        "TIPO"
+      ],
+      [
+        "01",
+        "COR"
+      ]
+    ]
+  },
+  {
+    "text": "iPhone 12 Pro Apple Dourado 512GB Desbloqueado - MGMW3BZ/A",
+    "gold": [
+      [
+        "iPhone 12 Pro",
+        "MODELO"
+      ],
+      [
+        "Apple",
+        "MARCA"
+      ],
+      [
+        "Dourado",
+        "COR"
+      ],
+      [
+        "512GB",
+        "MEMORIA"
+      ]
+    ],
+    "pred": [
+      [
+        "iPhone 12 Pro",
+        "MODELO"
+      ],
+      [
+        "Apple",
+        "MARCA"
+      ],
+      [
+        "Dourado",
+        "COR"
+      ],
+      [
+        "512GB",
+        "MEMORIA"
+      ]
+    ]
+  },
+  {
+    "text": "iPhone 12 Pro Apple Azul Pacífico 256GB Desbloqueado - MGMT3BZ/A",
+    "gold": [
+      [
+        "iPhone 12 Pro",
+        "MODELO"
+      ],
+      [
+        "Apple",
+        "MARCA"
+      ],
+      [
+        "Azul Pacífico",
+        "COR"
+      ],
+      [
+        "256GB",
+        "MEMORIA"
+      ]
+    ],
+    "pred": [
+      [
+        "iPhone 12 Pro",
+        "MODELO"
+      ],
+      [
+        "Apple",
+        "MARCA"
+      ],
+      [
+        "Azul Pacífico",
+        "COR"
+      ],
+      [
+        "256GB",
+        "MEMORIA"
+      ]
+    ]
+  },
+  {
+    "text": "Smartphone Xiaomi Redmi Note 8 Pro 128GB 6GB RAM Tela 6,3” Câmera Quádrupla Branco",
+    "gold": [
+      [
+        "Smartphone",
+        "TIPO"
+      ],
+      [
+        "Xiaomi",
+        "MARCA"
+      ],
+      [
+        "Redmi Note 8 Pro",
+        "MODELO"
+      ],
+      [
+        "128GB",
+        "MEMORIA"
+      ],
+      [
+        "6GB RAM",
+        "RAM"
+      ],
+      [
+        "Tela 6,3”",
+        "TELA"
+      ],
+      [
+        "Branco",
+        "COR"
+      ]
+    ],
+    "pred": [
+      [
+        "Smartphone",
+        "TIPO"
+      ],
+      [
+        "Xiaomi",
+        "MARCA"
+      ],
+      [
+        "Redmi Note 8 Pro",
+        "MODELO"
+      ],
+      [
+        "128GB",
+        "MEMORIA"
+      ],
+      [
+        "6GB RAM",
+        "RAM"
+      ],
+      [
+        "Tela 6,3”",
+        "TELA"
+      ],
+      [
+        "Branco",
+        "COR"
+      ]
+    ]
+  },
+  {
+    "text": "Capa Protetora para iPhone 7 Plus Apple, Silicone Vermelha - MMQV2ZM/A",
+    "gold": [
+      [
+        "Capa Protetora",
+        "TIPO"
+      ],
+      [
+        "iPhone 7 Plus",
+        "MODELO"
+      ],
+      [
+        "Apple",
+        "MARCA"
+      ],
+      [
+        "Vermelha",
+        "COR"
+      ]
+    ],
+    "pred": [
+      [
+        "Capa Protetora",
+        "TIPO"
+      ],
+      [
+        "iPhone 7 Plus",
+        "MODELO"
+      ],
+      [
+        "Apple",
+        "MARCA"
+      ],
+      [
+        "Vermelha",
+        "COR"
+      ]
+    ]
+  },
+  {
+    "text": "Smartphone Samsung Galaxy A03s 64GB 4GB RAM Tela 6,5",
+    "gold": [
+      [
+        "Smartphone",
+        "TIPO"
+      ],
+      [
+        "Samsung",
+        "MARCA"
+      ],
+      [
+        "Galaxy A03s",
+        "MODELO"
+      ],
+      [
+        "64GB",
+        "MEMORIA"
+      ],
+      [
+        "4GB RAM",
+        "RAM"
+      ],
+      [
+        "Tela 6,5",
+        "TELA"
+      ]
+    ],
+    "pred": [
+      [
+        "Smartphone",
+        "TIPO"
+      ],
+      [
+        "Samsung",
+        "MARCA"
+      ],
+      [
+        "Galaxy A03s",
+        "MODELO"
+      ],
+      [
+        "64GB",
+        "MEMORIA"
+      ],
+      [
+        "4GB RAM",
+        "RAM"
+      ],
+      [
+        "Tela 6,5",
+        "TELA"
+      ]
+    ]
+  },
+  {
+    "text": "Celular Multilaser Vita 3G Dual Chip Tela 1,8 Polegadas + Base Carregadora P9091 - Preto",
+    "gold": [
+      [
+        "Celular",
+        "TIPO"
+      ],
+      [
+        "Multilaser",
+        "MARCA"
+      ],
+      [
+        "Vita 3G",
+        "MODELO"
+      ],
+      [
+        "Tela 1,8 Polegadas",
+        "TELA"
+      ],
+      [
+        "Base Carregadora",
+        "TIPO"
+      ],
+      [
+        "Preto",
+        "COR"
+      ]
+    ],
+    "pred": [
+      [
+        "Celular",
+        "TIPO"
+      ],
+      [
+        "Multilaser",
+        "MARCA"
+      ],
+      [
+        "Vita 3G",
+        "TIPO"
+      ],
+      [
+        "Tela 1,8",
+        "TELA"
+      ],
+      [
+        "Base Carregadora P9091",
+        "TIPO"
+      ],
+      [
+        "Preto",
+        "COR"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "text": "Smartphone Nokia C20 32GB 4G com 90 dias de internet grátis* - NK081",
+    "gold": [
+      [
+        0,
+        10,
+        "TIPO",
+        "Smartphone"
+      ],
+      [
+        11,
+        16,
+        "MARCA",
+        "Nokia"
+      ],
+      [
+        17,
+        20,
+        "MODELO",
+        "C20"
+      ],
+      [
+        21,
+        25,
+        "MEMORIA",
+        "32GB"
+      ]
+    ],
+    "pred": [
+      [
+        0,
+        10,
+        "TIPO",
+        "Smartphone"
+      ],
+      [
+        11,
+        16,
+        "MARCA",
+        "Nokia"
+      ],
+      [
+        17,
+        20,
+        "MODELO",
+        "C20"
+      ],
+      [
+        21,
+        25,
+        "MEMORIA",
+        "32GB"
+      ]
+    ]
+  },
+  {
+    "text": "KIT MOTORISTA 01 - WI392",
+    "gold": [
+      [
+        0,
+        3,
+        "TIPO",
+        "KIT"
+      ],
+      [
+        4,
+        16,
+        "MODELO",
+        "MOTORISTA 01"
+      ]
+    ],
+    "pred": [
+      [
+        0,
+        3,
+        "TIPO",
+        "KIT"
+      ]
+    ]
+  },
+  {
+    "text": "iPhone 12 Pro Apple Dourado 512GB Desbloqueado - MGMW3BZ/A",
+    "gold": [
+      [
+        0,
+        13,
+        "MODELO",
+        "iPhone 12 Pro"
+      ],
+      [
+        14,
+        19,
+        "MARCA",
+        "Apple"
+      ],
+      [
+        20,
+        27,
+        "COR",
+        "Dourado"
+      ],
+      [
+        28,
+        33,
+        "MEMORIA",
+        "512GB"
+      ]
+    ],
+    "pred": [
+      [
+        0,
+        13,
+        "MODELO",
+        "iPhone 12 Pro"
+      ],
+      [
+        14,
+        19,
+        "MARCA",
+        "Apple"
+      ],
+      [
+        20,
+        27,
+        "COR",
+        "Dourado"
+      ],
+      [
+        28,
+        33,
+        "MEMORIA",
+        "512GB"
+      ]
+    ]
+  },
+  {
+    "text": "iPhone 12 Pro Apple Azul Pacífico 256GB Desbloqueado - MGMT3BZ/A",
+    "gold": [
+      [
+        0,
+        13,
+        "MODELO",
+        "iPhone 12 Pro"
+      ],
+      [
+        14,
+        19,
+        "MARCA",
+        "Apple"
+      ],
+      [
+        20,
+        33,
+        "COR",
+        "Azul Pacífico"
+      ],
+      [
+        34,
+        39,
+        "MEMORIA",
+        "256GB"
+      ]
+    ],
+    "pred": [
+      [
+        0,
+        13,
+        "MODELO",
+        "iPhone 12 Pro"
+      ],
+      [
+        14,
+        19,
+        "MARCA",
+        "Apple"
+      ],
+      [
+        20,
+        33,
+        "COR",
+        "Azul Pacífico"
+      ],
+      [
+        34,
+        39,
+        "MEMORIA",
+        "256GB"
+      ]
+    ]
+  },
+  {
+    "text": "Smartphone Xiaomi Redmi Note 8 Pro 128GB 6GB RAM Tela 6,3” Câmera Quádrupla Branco",
+    "gold": [
+      [
+        0,
+        10,
+        "TIPO",
+        "Smartphone"
+      ],
+      [
+        11,
+        17,
+        "MARCA",
+        "Xiaomi"
+      ],
+      [
+        18,
+        34,
+        "MODELO",
+        "Redmi Note 8 Pro"
+      ],
+      [
+        35,
+        40,
+        "MEMORIA",
+        "128GB"
+      ],
+      [
+        41,
+        48,
+        "RAM",
+        "6GB RAM"
+      ],
+      [
+        49,
+        58,
+        "TELA",
+        "Tela 6,3”"
+      ],
+      [
+        76,
+        82,
+        "COR",
+        "Branco"
+      ]
+    ],
+    "pred": [
+      [
+        0,
+        10,
+        "TIPO",
+        "Smartphone"
+      ],
+      [
+        11,
+        17,
+        "MARCA",
+        "Xiaomi"
+      ],
+      [
+        18,
+        34,
+        "MODELO",
+        "Redmi Note 8 Pro"
+      ],
+      [
+        35,
+        40,
+        "MEMORIA",
+        "128GB"
+      ],
+      [
+        41,
+        48,
+        "RAM",
+        "6GB RAM"
+      ],
+      [
+        49,
+        58,
+        "TELA",
+        "Tela 6,3”"
+      ],
+      [
+        76,
+        82,
+        "COR",
+        "Branco"
+      ]
+    ]
+  },
+  {
+    "text": "Capa Protetora para iPhone 7 Plus Apple, Silicone Vermelha - MMQV2ZM/A",
+    "gold": [
+      [
+        0,
+        14,
+        "TIPO",
+        "Capa Protetora"
+      ],
+      [
+        20,
+        33,
+        "MODELO",
+        "iPhone 7 Plus"
+      ],
+      [
+        34,
+        39,
+        "MARCA",
+        "Apple"
+      ],
+      [
+        50,
+        58,
+        "COR",
+        "Vermelha"
+      ]
+    ],
+    "pred": [
+      [
+        0,
+        14,
+        "TIPO",
+        "Capa Protetora"
+      ],
+      [
+        20,
+        33,
+        "MODELO",
+        "iPhone 7 Plus"
+      ],
+      [
+        34,
+        39,
+        "MARCA",
+        "Apple"
+      ],
+      [
+        50,
+        58,
+        "COR",
+        "Vermelha"
+      ]
+    ]
+  },
+  {
+    "text": "Smartphone Samsung Galaxy A03s 64GB 4GB RAM Tela 6,5",
+    "gold": [
+      [
+        0,
+        10,
+        "TIPO",
+        "Smartphone"
+      ],
+      [
+        11,
+        18,
+        "MARCA",
+        "Samsung"
+      ],
+      [
+        19,
+        30,
+        "MODELO",
+        "Galaxy A03s"
+      ],
+      [
+        31,
+        35,
+        "MEMORIA",
+        "64GB"
+      ],
+      [
+        36,
+        43,
+        "RAM",
+        "4GB RAM"
+      ],
+      [
+        44,
+        52,
+        "TELA",
+        "Tela 6,5"
+      ]
+    ],
+    "pred": [
+      [
+        0,
+        10,
+        "TIPO",
+        "Smartphone"
+      ],
+      [
+        11,
+        18,
+        "MARCA",
+        "Samsung"
+      ],
+      [
+        19,
+        30,
+        "MODELO",
+        "Galaxy A03s"
+      ],
+      [
+        31,
+        35,
+        "MEMORIA",
+        "64GB"
+      ],
+      [
+        36,
+        43,
+        "RAM",
+        "4GB RAM"
+      ],
+      [
+        44,
+        52,
+        "TELA",
+        "Tela 6,5"
+      ]
+    ]
+  },
+  {
+    "text": "Celular Multilaser Vita 3G Dual Chip Tela 1,8 Polegadas + Base Carregadora P9091 - Preto",
+    "gold": [
+      [
+        0,
+        7,
+        "TIPO",
+        "Celular"
+      ],
+      [
+        8,
+        18,
+        "MARCA",
+        "Multilaser"
+      ],
+      [
+        19,
+        26,
+        "MODELO",
+        "Vita 3G"
+      ],
+      [
+        37,
+        55,
+        "TELA",
+        "Tela 1,8 Polegadas"
+      ],
+      [
+        58,
+        74,
+        "TIPO",
+        "Base Carregadora"
+      ],
+      [
+        83,
+        88,
+        "COR",
+        "Preto"
+      ]
+    ],
+    "pred": [
+      [
+        0,
+        7,
+        "TIPO",
+        "Celular"
+      ],
+      [
+        8,
+        18,
+        "MARCA",
+        "Multilaser"
+      ],
+      [
+        19,
+        26,
+        "MODELO",
+        "Vita 3G"
+      ],
+      [
+        37,
+        55,
+        "TELA",
+        "Tela 1,8 Polegadas"
+      ],
+      [
+        83,
+        88,
+        "COR",
+        "Preto"
+      ]
+    ]
+  }
+]
