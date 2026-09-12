@@ -1,9 +1,26 @@
 # mt-lab-session-ner-starter
 
 ## Grupo
-1. NOME INTEGRANTE - EMAIL
-2. NOME INTEGRANTE - EMAIL
-3. NOME INTEGRANTE - EMAIL
+1. Joao Rietra - jhlr@cesar.school
+
+## Dataset escolhido
+`cellphone.ibyte.json` (1326 produtos, 1034 títulos únicos). Categoria de celulares/smartphones e acessórios (capas, carregadores, suportes, películas).
+
+## Schema de entidades (NER)
+| Tag | Descrição | Exemplo |
+|---|---|---|
+| `TIPO` | Tipo/categoria do produto | Smartphone, Celular, Capa, Carregador, Case, Suporte, Película |
+| `MARCA` | Marca | Apple, Samsung, Motorola, Nokia, Multilaser |
+| `MODELO` | Linha/modelo do produto | iPhone 14 Pro Max, Galaxy A53, Moto E22 |
+| `MEMORIA` | Capacidade de armazenamento | 128GB, 64GB |
+| `RAM` | Memória RAM | 4GB RAM, 8GB de RAM |
+| `COR` | Cor | Preto, Roxo-profundo, Rose Gold |
+| `TELA` | Tamanho de tela | Tela 6.5, Tela de 6,5 |
+
+Códigos de SKU/referência (ex: `P9076`, `MM2Y3ZE/A`) foram deixados sem tag.
+
+## Metodologia de anotação
+Amostra aleatória de 300 títulos únicos (seed=42), anotada com apoio de LLM em 5 lotes de 60 títulos. Cada offset foi validado programaticamente contra o texto original (sem overlaps, sem offsets inválidos). Script de amostragem em `scripts/2.sample_titles.py`, pra reproduzir a mesma amostra. Anotações finais em `data/annotations/cellphone.ibyte.jsonl`.
 
 ## Prerequisites:
 * Docker
